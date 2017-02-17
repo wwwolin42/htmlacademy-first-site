@@ -1,0 +1,123 @@
+body{
+    min-width:1200px;
+    min-height: 2256px;
+    margin:0px;
+    padding: 0px;
+}
+header{
+   background-color: #eeeeee;
+    width: auto;
+}
+.clearfix{
+    content:"";
+    clear: both;
+    display: table;
+}
+.container-head{
+    margin: 0 auto;
+    padding: 10px;
+    width: 900px;
+    margin-bottom: 80px;
+}
+.logo{
+    float: left;
+    background-color: #888888 ;
+}
+.header-navigation{
+    float: left;
+    width: 620px;
+    background-color: #888834 ;
+
+}
+.cart{
+    float:left;
+    width:100px;
+    background-color: #888845;
+
+}
+.content-main{
+    margin: 0 auto;
+    width: 900px;
+    padding: 0 10px;
+    border-bottom: 2px solid #eeeeee;
+    min-height: 380px;
+}
+.produkt-buy{
+    width: 240px;
+    float: left;
+    margin-right: 20px;
+}
+.produkt-buy:last-child{
+    margin-right: 0px;
+
+}
+.bt-web{
+    background-color:#fb565a;
+    font-size: 18px;
+    width: 140px;
+    height: 40px;
+    border: 1px solid white;
+    border-radius: 5px;
+    color: white;
+
+}
+.content-about{ margin: 0 auto;
+    padding: 0 10px;
+    width: 900px;
+
+}
+.content-about-opisanie{
+    float:left;
+    width: 620px;
+    margin-right: 20px;
+}
+.content-imagelogo {
+    float: left;
+    width: 240px;
+}
+.podlogo{
+    width: 900px;
+    padding: 0;
+    margin: 0 auto;
+    border-bottom: 2px solid #eeeeee;
+    border-top: 2px solid #eeeeee;
+}
+.image-podlogo{
+    float:left;
+    width: 220px;
+    margin-right: 100px;
+  }
+.image-podlogo:last-child{
+    margin-right: 0px;
+}
+.map{
+    width: 900px;
+    padding: 0;
+    margin: 0 auto;
+
+}
+.contacts{
+    float: left;
+    width: 254px;
+    min-height: 240px;
+}
+.image-logo{
+    float:right;
+    width: 155px;
+}
+.footerand{
+    width: 900px;
+    padding: 10px;
+    margin: 0 auto;
+}
+.social{
+    float:left;
+    width: 240px;
+    margin-right: 80px;
+    background-color: #888888;
+}
+
+.footer-info{
+    float:left;
+    width: 560px;
+}
